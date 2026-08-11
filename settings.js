@@ -16,7 +16,7 @@ let settings = {
     pages: [
         // --- Lembar 1 (data-page="0") ---
         { 
-            image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+            image: 'https://madeforanita.vercel.app/image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
             image: './image/photos/b1.png', // Menggantikan lhvuck.png (Index 1)
@@ -33,7 +33,7 @@ let settings = {
 
         // --- Lembar 3 (data-page="2") ---
         { 
-            image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
+            image: 'https://madeforanita.vercel.app/image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
             content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
         }
     ],
@@ -359,7 +359,7 @@ function initializeDefaultSettings() {
         pages: [
             // --- Lembar 1 (data-page="0") ---
             { 
-                image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+                image: 'https://madeforanita.vercel.app/image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
             },
             { 
                 image: './image/photos/b1.png', // Menggantikan lhvuck.png (Index 1)
@@ -367,7 +367,7 @@ function initializeDefaultSettings() {
 
             // --- Lembar 2 (data-page="1") ---
             { 
-                image: './image/photos/b2.png', // Menggantikan fjr3qh.png (Index 2)
+                image: 'https://madeforanita.vercel.app/image/theend.jpg', // Menggantikan fjr3qh.png (Index 2)
                 content: 'Happy Birthday Sayang 💗' 
             },
             { 
