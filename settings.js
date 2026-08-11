@@ -4,7 +4,7 @@ const closeModal = document.querySelector('.close');
 let pages = [];
 const applySettingsButton = document.getElementById('applySettings');
 let settings = {
-    music: 'music/hbdmusic1.mp3',
+    music: 'https://madeforanita.vercel.app/music/hbdmusic1.mp3',
     countdown: 3,
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
