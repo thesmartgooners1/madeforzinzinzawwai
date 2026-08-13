@@ -368,7 +368,7 @@ function initializeDefaultSettings() {
             // --- Lembar 2 (data-page="1") ---
             { 
                 image: './p1.jpg', // Menggantikan fjr3qh.png (Index 2)
-                content: 'Happy Birthday Kalay 💗' 
+                content: 'Happy birthday! 🤍🎂 I hope you have an amazing day and a year ahead filled with good things. I really like your smile, and honestly,' 
             },
             { 
                 image: './p2.jpg', // Menggantikan 8u5tf7.png (Index 3)
@@ -377,7 +377,7 @@ function initializeDefaultSettings() {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './p4.jpg', // Menggantikan tbutvj.png (Index 4)
-                content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
+                content: 'seeing you happy is one of my favorite things. I’m really glad I got to know you. Stay happy, keep smiling, and enjoy your day, pretty girl. 🤍' 
             }
         ]
     };
