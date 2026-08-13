@@ -367,7 +367,7 @@ function initializeDefaultSettings() {
 
             // --- Lembar 2 (data-page="1") ---
             { 
-                image: 'p1.jpg', // Menggantikan fjr3qh.png (Index 2)
+                image: './p1.jpg', // Menggantikan fjr3qh.png (Index 2)
                 content: 'Happy Birthday Kalay 💗' 
             },
             { 
